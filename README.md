@@ -2,12 +2,7 @@
 ## I'm a computer science student on AGH in Cracow.
 
 ### I'm currently working on:
-- [Beerventure](https://github.com/AGH-Narzedzia-Informatyczne-2023-2024/Beerventure) - rouge like game made in Python
+- [Sanitary network simulation]([(https://github.com/nataliadybczak/sanitary-network-simulation)]) - discrete simulation using Pygame and Mesa.
 
-### [My page on GitHub](https://esarna.github.io)
-
-### Fork of the repository found by Papers with Code
-- [Article](https://paperswithcode.com/paper/music-transcription-modelling-and-composition)
-- [My fork](https://github.com/esarna/folk-rnn) 
-- [Repository](https://github.com/IraKorshunova/folk-rnn) that my fork is created on
-
+### Previous projects:
+- [Physics Simulation Language]([https://github.com/Irvinnee/PhysicsLanguage]) - programming language implemented in Python and ANTLR4 that implements simulation of physics particles.
